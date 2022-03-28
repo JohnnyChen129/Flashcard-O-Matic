@@ -9,7 +9,6 @@ import Study from "../Components/Study";
 import EditDeck from "../Components/EditDeck";
 import AddCard from "../Components/AddCard";
 import EditCard from "../Components/EditCard";
-
 function Layout() {
     return (
         <div>

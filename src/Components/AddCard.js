@@ -9,7 +9,7 @@ function AddCard() {
         front: "",
         back: "",
     };
-
+    
     const [newCard, setNewCard] = useState(initialState);
     const [deck, setDeck] = useState({});
 
