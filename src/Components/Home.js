@@ -70,6 +70,7 @@ function Home() {
                                 </Link>
                                 <button
                                     type="button"
+                                    class="bi bi-trash3"
                                     className="btn btn-danger mx-1"
                                     onClick={() => handleDelete(deck)}
                                 >
