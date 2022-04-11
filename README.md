@@ -6,7 +6,7 @@ teach, as well as for students to use to study the decks their teachers have cre
 ### Home Page:
 ![home](/screenshots/home.jpg)
 The home screen has the following features:
-- A "Create Deck" button that will take the user to the Create Deck screen when clicked on.
+- A "Create Deck" buttom that will take the user to the Create Deck screen when clicked on.
 - Existing decks are shown with the deck name, the number of cards in that deck, and a "View", "Study", and "Delete" button.
 - Clicking the "View" button will take the user to that deck's Deck screen.
 - Clicking the "Study" button will take the user to the Study screen.
@@ -98,7 +98,7 @@ The Edit Card screen allows the user to modify information on an existing card i
 that deck's Deck screen, and finally the text: `Edit Card :cardId`. 
 - It displays the same form as the Add Card screen, except it is pre-filled with information for the existing card. It can be edited and updated.
 - If the user clicks on either the "Cancel" or "Submit" button, the user is taken to the Deck screen.
-
+ 
 ## Technology
 ### Built with:
 - React, JavaScript, HTML, Bootstrap 4 for styling, and Open-Iconic icons for icons.
