@@ -1,6 +1,6 @@
 # Flashcard-o-matic App
 Flashcard-o-matic is an application intended for both teachers to use to create decks of flashcards for the subjects they 
-teach, as well as for students to use to study the decks their teachers have created. 
+teach, as well as for students to use to study the decks their teachers have created.   
 
 ## Screenshots
 ### Home Page:
